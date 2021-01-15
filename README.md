@@ -1,6 +1,6 @@
 ### Hi there, I'm Gozel - 👋
 
-## I'm a Wife, Mother, Developer, and Cooker!!
+## I'm a Wife, Mother, Developer, and Cook!!
 
 - 🔭 I just started my React practice.
 - 🌱 I’m currently learning everything
