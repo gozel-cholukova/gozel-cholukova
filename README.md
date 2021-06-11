@@ -1,12 +1,12 @@
 ### Hi there, I'm Gozel - 👋
 
-## I'm a Wife, Mother, Developer, and Cook!!
+## I'm a Wife, Mother, Developer, Designer and Cook!!
 
-- 🔭 I just started my React practice.
-- 🌱 I’m currently learning everything
+- 🔭 I Love React.
+- 🌱 I’m currently learning UI Design. 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and cook
+- ⚡ Fun fact: I love to sketch and cook.
 
 ### Connect with me:
 
